@@ -5,10 +5,10 @@ Aplikasi sederhana berbasis **Java JSP** untuk melakukan pemesanan tiket bioskop
 ## 📸 Screenshots Tampilan
 
 ### Halaman Beranda (`index.jsp`)
-![Tampilan index.jsp](/assets/ouput-index.png)
+![Tampilan index.jsp](/assets/output-index.png)
 
 ### Formulir Pemesanan (`formPesan.jsp`)
-![Tampilan formPesan.jsp](/assets/ouput-formPesan.png)
+![Tampilan formPesan.jsp](/assets/output-formPesan.png)
 
 ### Struk Pemesanan (`struk.jsp`)
 ![Tampilan struk.jsp](/assets/output-struk.png)

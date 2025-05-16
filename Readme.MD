@@ -49,7 +49,7 @@ UTS_Java_Lanjutan/
 
 │       ├── ouput-formPesan.png
 
-│       ├── output-struk-1.png
+│       ├── output-struk.png
 
 ├── build.xml
 

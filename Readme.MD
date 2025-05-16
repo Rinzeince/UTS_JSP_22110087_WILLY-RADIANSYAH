@@ -15,7 +15,7 @@ Aplikasi sederhana berbasis **Java JSP** untuk melakukan pemesanan tiket bioskop
 
 1. **Pastikan** Java Development Kit (JDK), Apache Tomcat, dan Apache NetBeans sudah terinstal dan terkonfigurasi dengan benar.
 2. **Clone repository ini**:
-   git clone https://github.com/username/UTS_Java_Lanjutan.git
+   git clone https://github.com/Rinzeince/UTS_JSP_22110087_WILLY-RADIANSYAH.git
 3. **Buka NetBeans**, pilih menu File > Open Project.
 4. **Arahkan ke folder hasil clone tadi** dan buka proyek UTS_Java_Lanjutan.
 5. **Buka folder Web Pages**, lalu pilih dan buka file index.jsp.

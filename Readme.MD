@@ -13,6 +13,7 @@ Aplikasi sederhana berbasis **Java JSP** untuk melakukan pemesanan tiket bioskop
 ### Struk Pemesanan (`struk.jsp`)
 ![Tampilan struk.jsp](/assets/output-struk.png)
 
+## 🚀 Cara Instalasi & Menjalankan Project
 1. **Pastikan** Java Development Kit (JDK), Apache Tomcat, dan Apache NetBeans sudah terinstal dan terkonfigurasi dengan benar.
 2. **Clone repository ini**:
    git clone https://github.com/Rinzeince/UTS_JSP_22110087_WILLY-RADIANSYAH.git
